@@ -1,6 +1,7 @@
 flask
+psycopg2-binary
+Flask-SQLAlchemy
 pandas
 scikit-learn
 numpy
-psycopg2-binary
-Flask-SQLAlchemy
+tensorflow
